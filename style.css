@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(220, 196, 148);
+}
+h2, p, ol, li {
+    color: rgb(158, 15, 43) ;
+}
+h3, a {
+    color: rgb(8, 120, 73);
+}
